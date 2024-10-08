@@ -14,6 +14,7 @@
 <img src="https://github.com/kairaun/MocapWithUnity/blob/main/pic/3.jpg" />
 <p text-align="center">⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️</p>
 <img src="https://github.com/kairaun/MocapWithUnity/blob/main/pic/4.jpg" />
+
 #### 4. 等待跑完即完成
 <img src="https://github.com/kairaun/MocapWithUnity/blob/main/pic/5.jpg" />
 
