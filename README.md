@@ -2,6 +2,21 @@
 
 ## Unity Version：2022 3.43f1
 
+### 下載說明
+請選擇branch為Sample，並將其clone到本地端
+#### 1. 開啟專案
+在Assets/Scenes 點擊SampleScene
+![image](https://github.com/kairaun/MocapWithUnity/blob/main/pic/1.jpg)
+#### 2. Reimport
+在場景載入後會出現Error，對Assets點右鍵=>Reimport All
+![image](https://github.com/kairaun/MocapWithUnity/blob/main/pic/2.jpg)
+#### 3. 注意在loading時記憶體占用會變高，如果記憶體容量不足會報錯
+<img src="https://github.com/kairaun/MocapWithUnity/blob/main/pic/3.jpg" />
+<p text-align="center">⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️</p>
+<img src="https://github.com/kairaun/MocapWithUnity/blob/main/pic/4.jpg" />
+#### 4. 等待跑完即完成
+<img src="https://github.com/kairaun/MocapWithUnity/blob/main/pic/5.jpg" />
+
 ### Source of material
 https://sketchfab.com/3d-models/futuristic-room-a60be41028b049b6a488f5c6effcb6f8</br>
 https://sketchfab.com/3d-models/hot-sun-c3d84ec0290c4a04a23913edb0db3c9a</br>
