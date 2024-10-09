@@ -10,7 +10,7 @@
 #### 2. Reimport
 在場景載入後會出現Error，對Assets點右鍵=>Reimport All
 ![image](https://github.com/kairaun/MocapWithUnity/blob/main/pic/2.jpg)
-#### 3. 注意在loading時記憶體占用會變高，如果記憶體容量不足會報錯
+#### 3. 注意在loading時記憶體占用會變高，如果記憶體容量不足有可能會報錯(有些電腦會有些不會)
 <img src="https://github.com/kairaun/MocapWithUnity/blob/main/pic/3.jpg" />
 <p text-align="center">⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️</p>
 <img src="https://github.com/kairaun/MocapWithUnity/blob/main/pic/4.jpg" />
