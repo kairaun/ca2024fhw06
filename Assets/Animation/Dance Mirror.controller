@@ -1,13 +1,13 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1102 &-6695484523645766472
+--- !u!1102 &-7320119673268888278
 AnimatorState:
   serializedVersion: 6
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Boy_idle_004_mcp_Mirror
+  m_Name: Body_1211_3_mcp_Mirror
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -20,7 +20,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 0b5a1590cea13934da0a24bd8fa0e64c, type: 2}
+  m_Motion: {fileID: 7400000, guid: f0971fc6627c0fe4e96ad404bf4193ea, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -58,8 +58,8 @@ AnimatorStateMachine:
   m_Name: Base Layer
   m_ChildStates:
   - serializedVersion: 1
-    m_State: {fileID: -6695484523645766472}
-    m_Position: {x: 96, y: 271, z: 0}
+    m_State: {fileID: -7320119673268888278}
+    m_Position: {x: -20, y: 330, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
@@ -69,4 +69,4 @@ AnimatorStateMachine:
   m_EntryPosition: {x: -80, y: 130, z: 0}
   m_ExitPosition: {x: 240, y: 120, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
-  m_DefaultState: {fileID: -6695484523645766472}
+  m_DefaultState: {fileID: -7320119673268888278}
